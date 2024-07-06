@@ -1,9 +1,3 @@
-# CSS-Grid-Practise
-
-Certainly! Here's a GitHub README file template based on your HTML and CSS code for practicing CSS Grid:
-
----
-
 # CSS Grid Practice
 
 This repository contains a simple HTML file with CSS Grid layout examples for practicing grid-based layouts.
